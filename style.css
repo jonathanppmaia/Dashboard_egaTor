@@ -727,7 +727,7 @@ main .recent-orders a{
     position: fixed;
     left: -100%;
     background: var(--color-white);
-    width: 04rem;
+    width: 18rem;
     z-index: 3;
     box-shadow: var(--padding-1);
     height: 100vh;
@@ -748,6 +748,10 @@ main .recent-orders a{
 
   aside .logo h2 {
     display: inline;
+  }
+
+  aside .sidebar{
+    height: 71vh;
   }
 
   aside .sidebar h3 {
